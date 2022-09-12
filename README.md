@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repodur. İçerisi
 
 ---
 ![GITHUB](img/github.png)
---- 
+---
 # Installation
 Öncelikle projeyi clonelayın.
 ```
@@ -22,3 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[PATIKA] (www.patika.dev)
