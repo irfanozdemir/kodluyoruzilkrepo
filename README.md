@@ -1,5 +1,5 @@
-# Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+# Ilk Repom
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repodur. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ---
 ![GITHUB](img/github.png)
